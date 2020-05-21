@@ -1,0 +1,5 @@
+.DS_Store
+forecast/*
+precip_data/*
+means/*
+*.pyc
