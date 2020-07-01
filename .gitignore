@@ -1,5 +1,5 @@
 .DS_Store
 forecast/*
-precip_data/*
+*_data/*
 means/*
 *.pyc
